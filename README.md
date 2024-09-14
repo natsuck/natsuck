@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Nathaniel
 
+<h3>I am a Computer Science student</h3>
+
 <!--
 **natsuck/natsuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
